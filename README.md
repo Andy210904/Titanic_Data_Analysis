@@ -34,3 +34,14 @@ The dataset includes the following features:
 1. **Clone the repository**
    git clone https://github.com/your-username/titanic-survival-prediction.git
    cd titanic-survival-prediction
+
+2. **Install dependencies**
+It’s recommended to use a virtual environment or Conda. Then run:
+pip install -r requirements.txt
+
+3. **Launch Jupyter Notebook**
+jupyter notebook
+
+4. **Open and run the notebook**
+Open titanic_model_training.ipynb
+Run all the cells sequentially to view preprocessing, training, evaluation, and visualization steps.
