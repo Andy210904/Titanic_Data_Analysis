@@ -42,6 +42,9 @@ pip install -r requirements.txt
 3. **Launch Jupyter Notebook**
 jupyter notebook
 
-4. **Open and run the notebook**
+4. **Saving the dataset**
+Save the dataset in the same location where the .ipynb file is or if using collab then upload it in the files section
+
+5. **Open and run the notebook**
 Open titanic_model_training.ipynb
 Run all the cells sequentially to view preprocessing, training, evaluation, and visualization steps.
